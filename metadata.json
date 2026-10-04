@@ -1,0 +1,6 @@
+{
+  "name": "BlindSpot Mirror AI",
+  "description": "Socratic decision analysis engine that surfaces hidden assumptions, omitted risk dimensions, and pre-mortem failure simulations without making decisions for the user.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
